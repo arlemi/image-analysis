@@ -1,6 +1,6 @@
 var config = {
 	watson: {
-		language_translation: {
+		language_translator: {
 			url:'',
 			username: '',
 			password: '',
